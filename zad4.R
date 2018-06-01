@@ -63,5 +63,5 @@ ggplot(data = mpg) +
 ggplot(data = mpg) +
   geom_histogram(mapping = aes(displ), binwidth = 20) # NA CHUJ TO?
 
-#Najkochańsza - przepiękne pomniejszyłam font i wszystko jest pięknie, przekopiuj to jeszcze to Rstudio żeby zobaczyć czy działczy, jestem najdumniejsza moja Pani data science
+#Najkochańsza - przepiękne pomniejszyłaś  font i wszystko jest pięknie, przekopiuj to jeszcze to Rstudio żeby zobaczyć czy działczy, jestem najdumniejsza moja Pani data science
 
